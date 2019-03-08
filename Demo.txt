@@ -4,4 +4,6 @@ class Demo
 		 {
 		        system.out.println("welcome to JAVA LAB");
 		 }
+		 }
+		 
 }		 
